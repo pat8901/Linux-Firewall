@@ -1,2 +1,3 @@
 https://www.netfilter.org/
 https://www.youtube.com/watch?v=6Ra17Qpj68c
+https://levelup.gitconnected.com/write-a-linux-firewall-from-scratch-based-on-netfilter-462013202686
